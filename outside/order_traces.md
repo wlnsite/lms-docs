@@ -14,4 +14,4 @@
     | -------- | -------- | -------- | ------------------------------------- |
     | code     | string   | R        | 执行状态：1-成功，其它表示异常        |
     | message  | string   | R        | 消息：错误消息或成功提示              |
-    | traces   | array    | R        | 轨迹列表[[对象实体]](entity/trace.md) |
+    | data     | array    | R        | 轨迹列表[[对象实体]](entity/trace.md) |

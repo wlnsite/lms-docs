@@ -1,4 +1,5 @@
 * [统一说明](/)
+	* [开始接入](start.md)
 	* [编码格式](?id=format)
 	* [公共参数](?id=base_params)
 	* [字段出现要求](?id=requirements)
