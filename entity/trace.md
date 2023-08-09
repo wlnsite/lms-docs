@@ -8,4 +8,5 @@
 | address    | string   | N        | 无     | 轨迹记录地点                          |
 | state_code | string   | y        | 无     | [运单状态编码](enums?id=order_status) |
 | state_name | string   | N        | 无     | 运单状态说明                          |
+| operater   | string   | N        | 无     | 操作人员                              |
 | remarks    | string   | N        | 无     | 运单备注说明                          |

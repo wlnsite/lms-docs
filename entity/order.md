@@ -9,7 +9,4 @@
 | state_name   | string   | N        | 无     | 运单状态说明                             |
 | out_no       | string   | N        | 无     | 客户单号                                 |
 | remarks      | string   | N        | 无     | 运单记录说明                             |
-| signoffname  | string   | N        | 无     | 签收人                                   |
-| operatedate  | string   | N        | 无     | 操作时间                                 |
-| operateplace | string   | N        | 无     | 操作地点                                 |
 
