@@ -20,6 +20,7 @@
   | - state_name   | string   | O        | 状态描述                       |
   | - from_area    | string   | O        | 始发地区划                     |
   | - dest_area    | string   | O        | 目的地区划                     |
-  | - signer            | string   | O        | 签收人                         |
+  | - create_time  | long       | O        | 运单生成时间                   |
+  | - update_time  | long       | O        | 最后更新时间                   |
 
 
